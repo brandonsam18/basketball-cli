@@ -1,5 +1,7 @@
-# ruby-cli-template
+# Basketball CLI
 
-Use this repository as a template for your Ruby CLI (command line interface) project.
+A command line interface app to simulate a basketball game.
 
-- Ruby version: `3.2.1`
+# Usage
+
+Run `ruby main.rb` in the terminal.
